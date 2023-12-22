@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on **iOS App**
 
-- 🌱 I’m currently learning **SwiftUI, Flutter**
+- 🌱 I’m currently learning **NodeJS, Flutter**
 
-- 💬 Ask me about **iOS, Swift, Objective-C, NodeJS**
+- 💬 Ask me about **iOS, SwiftUI, Swift, Objective-C, NodeJS**
 
 - 📫 How to reach me **mohd14shoeb@gmail.com**
 
